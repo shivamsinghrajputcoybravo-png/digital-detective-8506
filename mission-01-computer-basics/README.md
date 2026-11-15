@@ -19,6 +19,15 @@ Chosen Activity:Typing and saving a document:-
 
 
 
+### Everyday Example
+When I type a document on my computer:
+- Input: I type text using the keyboard.
+- Processing: The computer processes the text.
+- Output: The text appears on the screen.
+- Storage: I save the document on the computer.
+
+
+
 
 # Task 1.2: Identify hardware and software
 
@@ -40,5 +49,14 @@ Chosen Activity:Typing and saving a document:-
 | MS Word | Application Software | Used to create and edit documents. |
 | Antivirus | Utility Software | Helps protect the computer from malware and viruses. |
 | Disk Cleanup | Utility Software | Helps remove unnecessary files. |
+
+# Task 1.3: Computer systems around you
+
+
+| Computer-Based System | Purpose | Input | Output |
+|---|---|---|---|
+| ATM | Used to withdraw cash and check bank balance. | ATM card, PIN and transaction amount. | Cash, receipt and account balance details. |
+| Smart TV | Used to watch television channels and online content. | Remote control commands and internet data. | Videos, images and sound. |
+| Traffic Signal System | Controls traffic movement and manages road safety. | Vehicle sensors and timer signals. | Red, yellow and green traffic lights. |
 
 
