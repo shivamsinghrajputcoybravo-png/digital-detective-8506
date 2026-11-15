@@ -10,12 +10,12 @@
 
 Chosen Activity:Typing and saving a document:-
 
-stage         What happens?                                         Hardware component
-Input         Text is entered using the keyboard .                  keyboard 
-processing    The computer will process the text                    CPU and RAM
-              and will temporarily save it.
-output        The computer will show the text on the screen.        Monitor 
-storage       The text is now saved in the computer for future use. SSD
+| Stage | What happens? | Hardware component |
+|---|---|---|
+| Input | Text is entered using the keyboard. | Keyboard |
+| Processing | The computer processes the typed text. | CPU and RAM |
+| Output | The computer displays the text on the screen. | Monitor |
+| Storage | The document is saved for future use. | SSD |
 
 
 
